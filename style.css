@@ -1,0 +1,13 @@
+body{
+background-image : url("race_car.gif");  
+background-size : cover;  
+}
+h1,h2 {
+background-color: aliceblue;
+width : fit-content;
+}
+#myCanvas {
+border-style: ridge;
+border-width : 15px;
+background-color: white;
+}
